@@ -1,2 +1,2 @@
-# smu_hw
+# SMU_Homework
 SMU Bootcamp HW
